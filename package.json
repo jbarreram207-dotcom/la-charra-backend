@@ -4,7 +4,7 @@
   "private": true,
   "description": "Sitio web de Almacén La Charra (estático) + función serverless de Vercel para el envío de solicitudes de cotización por correo.",
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "dependencies": {
     "nodemailer": "^6.9.14"
